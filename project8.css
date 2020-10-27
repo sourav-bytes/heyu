@@ -356,7 +356,7 @@ Cursor: pointer
         padding: 0px 20px;
     }
 .s-4-row .col-lg img {
-        width: 85px;
+        width: 85px !important;
         height: auto
     }
     .s-1-row h1 {
