@@ -221,6 +221,7 @@
 
     .s-4-row .col-lg img {
         max-width: 28%;
+        height: auto
     }
 }
 
