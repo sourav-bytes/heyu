@@ -40,7 +40,8 @@
 }
 
 .responsive-nav ul li:hover {
-    transform: scale(1.1)
+    transform: scale(1.1);
+Cursor: pointer
 }
 
 .navbar-brand {
@@ -355,7 +356,7 @@
         padding: 0px 20px;
     }
 .s-4-row .col-lg img {
-        width: 28%;
+        width: 85px;
         height: auto
     }
     .s-1-row h1 {
