@@ -8,7 +8,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    height: 85vh;
+    height: 100vh;
     position: relative
 }
 
@@ -251,7 +251,7 @@ Cursor: pointer
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
-        height: 110vh;
+        height: 100vh;
     }
 
     .s-1-row {
